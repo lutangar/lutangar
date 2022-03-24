@@ -38,7 +38,7 @@ And the ~~original~~ more generalist and international [https://www.dismoi.io/](
 
 - Testing
 - Documenting *Document all the things !!!*
-- Kanban *nothing better thant a tidy board*
+- 📋 Kanban *nothing better thant a tidy board*
 - Peer Review (who doesn't love to have people reading their hard work?)
 - DDD *still a work in progress*
 
@@ -56,25 +56,29 @@ And eager to dig deeper into Rust & Wasm one day.
 #### Interests
 - Open
   - softwares
-  - [seeds](https://www.semencespaysannes.org/)
+  - 🌱[seeds](https://www.semencespaysannes.org/)
   - low techs
   - :tractor: [machines](https://www.latelierpaysan.org/)
 - Collaborative, autonomous and humans organization in general
-    - SCOP, SCIC, association, and how they actually work (or don't work)
+    - SCOP, SCIC, [association](https://github.com/amabla), and how they actually work (or don't work)
     - Third places (:fr: tiers-lieux)
-- Agro-ecology
-    - Agroforestry
+- 🧑‍🌾 Agro-ecology
+    - Agroforestry 🌳🌾🐝
     - urban/guerrilla gardening
 - Decentralization: software, [social medias](https://fediverse.party/), energy, values, etc.
-- Food
+- 🍽️ Food
   - Spices - which I grow
-  - Craft beers - which I (mostly) drink
+  - 🍺 Craft beers - which I (mostly) drink
   - other non-alcoholic fermented beverages - when I don't
+- 🎸 music
 
 ### Accounts
 - https://framagit.org/lutangar
 - https://gitlab.com/lutangar
 - https://www.npmjs.com/~lutangar
+- https://www.linkedin.com/in/johandufour/
+- https://twitter.com/lutangar
+- https://mamot.fr/web/accounts/400635
 
 ### Friends
 - https://framagit.org/godotrio
