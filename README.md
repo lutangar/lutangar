@@ -1,67 +1,96 @@
-### Hi there 👋
+## Hi there, I'm Johan 👋
+> Based in Lyon area, :fr: France
 
-I'm a fullstack web developer in love with the commons <3
-> I've called a consultant a few times but I don't fully embrace this
+A __fullstack web developer__ in love with the *commons*.
 
-> I'm base in Lyon area in :fr: France
+- __Software craftsman__
+- __Consultant__ for some, but I do love to get my hands dirty...
 
-> I sometimes dreams about working in a (somewhat too nerdy and way too technocratic) git driven organization...
-> 
-> ...and then remind we're just humans, and it'd would probably destroy humanity anyway...
+### Recent works
 
-#### 
+For the past years, I tried to mostly work on open-source techs.
+
+##### PeerTube
+
+> [__PeerTube__](https://joinpeertube.org/en_US/) is a "Free software to take back control of your videos"
+
+I enjoy crafting plugins and contributing to [PeerTube](https://github.com/Chocobozzz/PeerTube) core,
+while working for the __French Ministry of Education__ which is deploying a lot of open-source software
+*via* their platform [apps.education.fr](https://apps.education.fr/).
+
+- [peertube-plugin-transcription](https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription)
+- [peertube-plugin-categories](https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin)
+
+##### API.VIDEO
+
+I appreciate collaborating with the people [@apivideo](https://github.com/apivideo) an international startup based in Bordeaux :wine:
+
+I met them by posting and fixing a few issues on their ~~~nodejs client~~~ [legacy nodejs client](https://github.com/apivideo/nodejs-sdk).
+But was then hired to maintain it and to help automate the deployment of their [generated API Clients](https://github.com/apivideo/api.video-api-client-generator) via __a ton's of __Github actions__ 
+
+##### DisMoi
+We worked hard [@dis-moi](https://github.com/dis-moi/) and gave birth to :fr: [__LeMêmeEnLocal__](https://lememe.fr/) a web extension focused on proposing locally sourced alternatives as you browse.
+
+And the ~~original~~ more generalist and international [https://www.dismoi.io/](DisMoi).
+> Would have love to decentralize this piece of software.
+
+### Processes
 
 - Testing
-- Documenting -- Docs!!!
-- Teaming
+- Documenting *Document all the things !!!*
+- Kanban *nothing better thant a tidy board*
+- Peer Review (who doesn't love to have people reading their hard work?)
+- DDD *still a work in progress*
 
-##### Technologies
+### Technologies
 
-- Typescript/Javascript/NodeJS React, Jest,
-- PHP Symfony
+- Git *granted sufficient permissions, anyone would be tempted to rewrite history*
+- Typescript/Javascript/NodeJS React, Storybook, RxJs, Next.js, Jest, Nx, NestJs, etc.
+- PHP and Symfony  *I'll always <3 u*
+- Docker *would*
+- Ansible
 
-##### Interests
+I'm also curious about more functional programming oriented languages like Elm, Elixir, ReasonML, etc.
+And eager to dig deeper into Rust & Wasm one day.
 
-- Open source
+#### Interests
+- Open
   - softwares
-  - seeds
+  - [seeds](https://www.semencespaysannes.org/)
   - low techs
-  - :tractor: machines
-  - Collobarative, autonmous and other (humans) organization
-    - SCOP SCIC, association,  and how they actually works (or don't work)
-    - third places (tiers-lieux)
-
-- Agroecology
+  - :tractor: [machines](https://www.latelierpaysan.org/)
+- Collaborative, autonomous and humans organization in general
+    - SCOP, SCIC, association, and how they actually work (or don't work)
+    - Third places (:fr: tiers-lieux)
+- Agro-ecology
     - Agroforestry
-    - urban gardenning/farming
+    - urban/guerrilla gardening
+- Decentralization: software, [social medias](https://fediverse.party/), energy, values, etc.
+- Food
+  - Spices - which I grow
+  - Craft beers - which I (mostly) drink
+  - other non-alcoholic fermented beverages - when I don't
 
-- Decentralization
-  - Softwarre
-  - energy
-  - social medias
-  - values
-  - energy
-  - etc.
+### Accounts
+- https://framagit.org/lutangar
+- https://gitlab.com/lutangar
+- https://www.npmjs.com/~lutangar
 
-- Foods
-- Craft beers (and other fermeneted beverages)
+### Friends
+- https://framagit.org/godotrio
+- https://github.com/MieuxVoter
 
+---
 
+*random thoughts*
 
+__git driven organization__
+> I sometimes dream about a (somewhat too nerdy and way too technocratic) git driven organization...<br />
+> ...and then recall we're just humans, and it'd probably end up in CyberPunk nightmare.
 
+__proprietary software__
 
-
-<!--
-**lutangar/lutangar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do use some proprietary softwares.<br />
+Some of which I sometimes recommend given the right context.<br />
+...but I still have some addictions to some SAAS which I badly need to cure. :ill:
+> Time is of the essence!
