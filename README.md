@@ -23,10 +23,10 @@ while working for the __French Ministry of Education__ which is deploying a lot 
 
 ##### API.VIDEO
 
-I appreciate collaborating with the people [@apivideo](https://github.com/apivideo) an international startup based in Bordeaux :wine:
+I appreciate collaborating with the people [@apivideo](https://github.com/apivideo) an international startup based in Bordeaux. 🍷
 
 I met them by posting and fixing a few issues on their ~~~nodejs client~~~ [legacy nodejs client](https://github.com/apivideo/nodejs-sdk).
-But was then hired to maintain it and to help automate the deployment of their [generated API Clients](https://github.com/apivideo/api.video-api-client-generator) via __a ton's of __Github actions__ 
+But was then hired to maintain it and to help automate the deployment of their [generated API Clients](https://github.com/apivideo/api.video-api-client-generator) via __a ton's__ of __Github actions__ 
 
 ##### DisMoi
 We worked hard [@dis-moi](https://github.com/dis-moi/) and gave birth to :fr: [__LeMêmeEnLocal__](https://lememe.fr/) a web extension focused on proposing locally sourced alternatives as you browse.
@@ -38,8 +38,8 @@ And the ~~original~~ more generalist and international [https://www.dismoi.io/](
 
 - Testing
 - Documenting *Document all the things !!!*
-- 📋 Kanban *nothing better thant a tidy board*
-- Peer Review (who doesn't love to have people reading their hard work?)
+- 📋 Kanban *nothing better than a tidy board*
+- Peer Review *(who doesn't love to have people reading their hard work?)*
 - DDD *still a work in progress*
 
 ### Technologies
@@ -47,11 +47,11 @@ And the ~~original~~ more generalist and international [https://www.dismoi.io/](
 - Git *granted sufficient permissions, anyone would be tempted to rewrite history*
 - Typescript/Javascript/NodeJS React, Storybook, RxJs, Next.js, Jest, Nx, NestJs, etc.
 - PHP and Symfony  *I'll always <3 u*
-- Docker *would*
+- Docker
 - Ansible
 
-I'm also curious about more functional programming oriented languages like Elm, Elixir, ReasonML, etc.
-And eager to dig deeper into Rust & Wasm one day.
+I'm also curious about functional programming languages like Elm, Elixir, ReasonML, etc.
+and eager to dig deeper into Rust & Wasm one day.
 
 #### Interests
 - Open
@@ -59,8 +59,8 @@ And eager to dig deeper into Rust & Wasm one day.
   - 🌱[seeds](https://www.semencespaysannes.org/)
   - low techs
   - :tractor: [machines](https://www.latelierpaysan.org/)
-- Collaborative, autonomous and humans organization in general
-    - SCOP, SCIC, [association](https://github.com/amabla), and how they actually work (or don't work)
+- Collaborative, autonomous and human organizations in general
+    - SCOP, SCIC, [association](https://github.com/amabla), and how they actually work (or don't)
     - Third places (:fr: tiers-lieux)
 - 🧑‍🌾 Agro-ecology
     - Agroforestry 🌳🌾🐝
@@ -96,5 +96,5 @@ __proprietary software__
 
 I do use some proprietary softwares.<br />
 Some of which I sometimes recommend given the right context.<br />
-...but I still have some addictions to some SAAS which I badly need to cure. :ill:
+...but I still have some addictions to some SAAS which I badly need to cure. 🤒
 > Time is of the essence!
