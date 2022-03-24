@@ -1,7 +1,4 @@
-## Hi there, I'm Johan 👋
-
-A __fullstack web developer__ in love with the *commons*.
-
+A __Fullstack web developer__ in love with the *commons*.
 - __Software craftsman__
 - __Consultant__ for some, but I do love to get my hands dirty...
 
@@ -13,7 +10,6 @@ For the past years, I tried to mostly work on open-source techs.
 I enjoy crafting plugins and contributing to [PeerTube](https://github.com/Chocobozzz/PeerTube) core,
 while working for the __French Ministry of Education__ which is deploying a lot of open-source software
 *via* their platform [apps.education.fr](https://apps.education.fr/).
-
 - [peertube-plugin-transcription](https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription)
 - [peertube-plugin-categories](https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin)
 
@@ -21,11 +17,10 @@ while working for the __French Ministry of Education__ which is deploying a lot 
 I appreciate collaborating with the people [@apivideo](https://github.com/apivideo) an international startup based in Bordeaux. 🍷
 
 I met them by posting and fixing a few issues on their ~~nodejs client~~ [legacy nodejs client](https://github.com/apivideo/nodejs-sdk).
-But was then hired to maintain it and to help automate the deployment of their [generated API Clients](https://github.com/apivideo/api.video-api-client-generator) via __a ton's__ of __Github actions__ 
+But was then hired to maintain it and to help automate the deployment of their [generated API Clients](https://github.com/apivideo/api.video-api-client-generator) via __a ton's__ of __Github actions__
 
 ##### DisMoi
 We worked hard [@dis-moi](https://github.com/dis-moi/) and gave birth to :fr: [__LeMêmeEnLocal__](https://lememe.fr/) a web extension focused on proposing locally sourced alternatives as you browse.
-
 And the ~~original~~ more generalist and international [https://www.dismoi.io/](DisMoi).
 > Would have love to decentralize this piece of software.
 
@@ -49,20 +44,14 @@ and eager to dig deeper into Rust & Wasm one day.
 ### Interests
 - Open softwares, 🌱 [seeds](https://www.semencespaysannes.org/), low techs and :tractor: [machines](https://www.latelierpaysan.org/)
 - Collaborative, autonomous, decentralized and human organizations in general
-    - SCOP, SCIC, [association](https://github.com/amabla), and how they actually work (or don't)
-    - Third places (:fr: tiers-lieux)
+  - SCOP, SCIC, [association](https://github.com/amabla), and how they actually work (or don't)
+  - Third places (:fr: tiers-lieux)
 - 🧑‍🌾 agro-ecology, agroforestry 🌳🌾🐝 but also urban/guerrilla gardening
 - Decentralized softwares, [social medias](https://fediverse.party/), energy, values, etc.
 - 🍽️ Food
   - Spices - *which I grow*
   - 🍺 Craft beers - *which I (mostly) drink*
-  - other non-alcoholic fermented beverages - *when I don't*
 - 🎸 music
-
-### Accounts
-- https://framagit.org/lutangar
-- https://www.npmjs.com/~lutangar
-- https://www.linkedin.com/in/johandufour/
 
 ---
 
