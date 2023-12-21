@@ -1,6 +1,6 @@
 ### Recent works
 For the past years, I worked on open-source projects.
-> See my [linked.in profile](https://www.linkedin.com/in/johandufour/) if you seek formal work experiences.
+> See my [linked.in](https://www.linkedin.com/in/johandufour/) for formal work experiences.
 
 ##### 🏙️ Lyon Metropolis
 - https://github.com/datatlas-erasme/datatlas
