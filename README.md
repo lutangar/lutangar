@@ -1,6 +1,4 @@
-A __Fullstack web developer__ in love with the *commons*.
-- __Software craftsman__
-- __Consultant__ for some, but I do love to get my hands dirty...
+__Software craftsman__, __Consultant__ for some, but I do love to get my hands dirty...
 
 ### Recent works
 For the past years, I tried to mostly work on open-source techs.
