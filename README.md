@@ -15,7 +15,7 @@ while working for the __French Ministry of Education__ which is deploying a lot 
 I appreciate collaborating with the people [@apivideo](https://github.com/apivideo) an international startup based in Bordeaux. 🍷
 
 I met them by posting and fixing a few issues on their ~~nodejs client~~ [legacy nodejs client](https://github.com/apivideo/nodejs-sdk).
-But was then hired to maintain it and to help automate the deployment of their [generated API Clients](https://github.com/apivideo/api.video-api-client-generator) via __a ton's__ of __Github actions__
+But was then hired to maintain it and to help automate the deployment of their [generated API Clients](https://github.com/apivideo/api.video-api-client-generator) *via* __a ton's__ of __Github actions__
 
 ##### DisMoi
 We worked hard [@dis-moi](https://github.com/dis-moi/) and gave birth to :fr: [__LeMêmeEnLocal__](https://lememe.fr/) a web extension focused on proposing locally sourced alternatives as you browse.
