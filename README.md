@@ -28,7 +28,7 @@ And the ~~original~~ more generalist and international [https://www.dismoi.io/](
 - DDD *still a work in progress*
 
 ### Technologies
-- Git *granted sufficient permissions, anyone would be tempted to rewrite history*
+- `git` *granted sufficient permissions, anyone would be tempted to rewrite history*
 - Typescript/Javascript/NodeJS React, Storybook, RxJs, Next.js, Jest, Nx, NestJs, etc.
 - PHP and Symfony  *I'll always <3 u*
 - Docker
