@@ -1,8 +1,6 @@
-__Software craftsman__, __Consultant__ for some, but I do love to get my hands dirty...
-
 ### Recent works
-For the past years, I tried to mostly work on open-source techs.
-> See my [linked.in profile](https://www.linkedin.com/in/johandufour/) for formal work experiences.
+For the past years, I worked on open-source projects.
+> See my [linked.in profile](https://www.linkedin.com/in/johandufour/) if you seek formal work experiences.
 
 ##### PeerTube
 I enjoy crafting plugins and contributing to [PeerTube](https://github.com/Chocobozzz/PeerTube) core,
