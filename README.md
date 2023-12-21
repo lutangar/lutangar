@@ -2,12 +2,14 @@
 For the past years, I worked on open-source projects.
 > See my [linked.in profile](https://www.linkedin.com/in/johandufour/) if you seek formal work experiences.
 
+##### 🏙️ Lyon Metropolis
+- https://github.com/datatlas-erasme/datatlas
+- https://github.com/interpretable/interpretable
+
 ##### PeerTube
-I enjoy crafting plugins and contributing to [PeerTube](https://github.com/Chocobozzz/PeerTube) core,
+I enjoy crafting [__PeerTube__ plugins](https://gitlab.com/apps_education/peertube) and contributing to [PeerTube](https://github.com/Chocobozzz/PeerTube) core,
 while working for the __French Ministry of Education__ which is deploying a lot of open-source software
 *via* their platform [apps.education.fr](https://apps.education.fr/).
-- [peertube-plugin-transcription](https://gitlab.mim-libre.fr/extensions-peertube/plugin-transcription)
-- [peertube-plugin-categories](https://gitlab.mim-libre.fr/extensions-peertube/categories-management-plugin)
 
 ##### api.video
 I appreciate collaborating with the people [@apivideo](https://github.com/apivideo) an international startup based in Bordeaux. 🍷
