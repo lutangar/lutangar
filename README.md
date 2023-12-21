@@ -41,7 +41,7 @@ and eager to dig deeper into Rust & Wasm one day.
 - Open softwares, 🌱 [seeds](https://www.semencespaysannes.org/), low techs and :tractor: [machines](https://www.latelierpaysan.org/)
 - Collaborative, autonomous, decentralized and human organizations in general
   - SCOP, SCIC, [association](https://github.com/amabla), and how they actually work (or don't)
-  - Third places (:fr: tiers-lieux)
+  - Third places ( :fr: tiers-lieux)
 - 🧑‍🌾 agro-ecology, agroforestry 🌳🌾🐝 but also urban/guerrilla gardening
 - Decentralized softwares, [social medias](https://fediverse.party/), energy, values, etc.
 - 🍽️ Food
