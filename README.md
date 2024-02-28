@@ -2,7 +2,7 @@
 For the past years, I worked on open-source projects.
 > See my [linked.in](https://www.linkedin.com/in/johandufour/) for formal work experiences.
 
-##### 🏙️ Lyon Metropolis
+##### 🏙️ Erasme, open innovation lab, Lyon metrepolitan area
 - https://github.com/datatlas-erasme/datatlas
 - https://github.com/interpretable/interpretable
 
