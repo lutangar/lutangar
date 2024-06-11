@@ -40,6 +40,8 @@ And the ~~original~~ more generalist and international [https://www.dismoi.io/](
 - PHP and Symfony  *I'll always <3 u*
 - Docker, Docker Compose
 - Ansible
+- Prometheus
+- Grafana
 - Digging Kubernetes & Helm
 
 I'm also curious about functional programming languages like Elm, Elixir, ReasonML, etc.
