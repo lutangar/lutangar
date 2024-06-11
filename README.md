@@ -1,15 +1,19 @@
 ### Recent works
-For the past years, I worked on open-source projects.
 > See my [linked.in](https://www.linkedin.com/in/johandufour/) for formal work experiences.
 
-##### 🏙️ Erasme, open innovation lab, Lyon metrepolitan area
-- https://github.com/datatlas-erasme/datatlas
-- https://github.com/interpretable/interpretable
+I work for open-source projects.
+
+##### 🏙️ Erasme, open innovation lab, Lyon 🇫🇷 metrepolitan area
+Crafted 🌍 [DatAtlas](https://github.com/datatlas-erasme/datatlas) a geospatial data vizualization tool ✨ based on [Kepler.gl](https://kepler.gl/).
+
+Forked [CBoard](https://github.com/cboard-org/cboard) an AAC communication board for [Interpretable](https://interpretable.projets.erasme.org/board/root) pictograms.
+**#a11y**
 
 ##### PeerTube
 I enjoy crafting [__PeerTube__ plugins](https://gitlab.com/apps_education/peertube) and contributing to [PeerTube](https://github.com/Chocobozzz/PeerTube) core,
 while working for the __French Ministry of Education__ which is deploying a lot of open-source software
 *via* their platform [apps.education.fr](https://apps.education.fr/).
+**#a11y**
 
 ##### api.video
 I appreciate collaborating with the people [@apivideo](https://github.com/apivideo) an international startup based in Bordeaux. 🍷
@@ -20,7 +24,7 @@ But was then hired to maintain it and to help automate the deployment of their [
 ##### DisMoi
 We worked hard [@dis-moi](https://github.com/dis-moi/) and gave birth to :fr: [__LeMêmeEnLocal__](https://lememe.fr/) a web extension focused on proposing locally sourced alternatives as you browse.
 And the ~~original~~ more generalist and international [https://www.dismoi.io/](DisMoi).
-> Would have love to decentralize this piece of software.
+> Would have love to decentralize this piece of software and embrace the __fediverse__.
 
 ### Processes
 - Testing
@@ -28,13 +32,15 @@ And the ~~original~~ more generalist and international [https://www.dismoi.io/](
 - 📋 Kanban *nothing better than a tidy board*
 - Peer Review *(who doesn't love to have people reading their hard work?)*
 - DDD *still a work in progress*
+- ~~Layered~~ ~~Hexa~~ Clean architecture
 
 ### Technologies
 - `git` *granted sufficient permissions, anyone would be tempted to rewrite history*
-- Typescript/Javascript/NodeJS React, Storybook, RxJs, Next.js, Jest, Nx, NestJs, etc.
+- Typescript/Javascript/NodeJS React, Storybook, `redux-saga`, RxJs, Next.js, Jest, Nx, NestJs, etc.
 - PHP and Symfony  *I'll always <3 u*
-- Docker
+- Docker, Docker Compose
 - Ansible
+- Digging Kubernetes & Helm
 
 I'm also curious about functional programming languages like Elm, Elixir, ReasonML, etc.
 and eager to dig deeper into Rust & Wasm one day.
